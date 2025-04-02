@@ -48,7 +48,7 @@ npx -y @smithery/cli install @YuChenSSR/multi-ai-advisor-mcp --client claude
 ### Manual Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YuChenSSR/multi-model-advisor.git
+   git clone https://github.com/YuChenSSR/multi-ai-advisor-mcp.git 
    cd multi-model-advisor
    ```
 
