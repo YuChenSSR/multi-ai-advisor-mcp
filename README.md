@@ -49,7 +49,7 @@ npx -y @smithery/cli install @YuChenSSR/multi-ai-advisor-mcp --client claude
 1. Clone this repository:
    ```bash
    git clone https://github.com/YuChenSSR/multi-ai-advisor-mcp.git 
-   cd multi-model-advisor
+   cd multi-ai-advisor-mcp
    ```
 
 2. Install dependencies:
@@ -102,7 +102,7 @@ DEEPSEEK_SYSTEM_PROMPT=You are a logical and analytical AI assistant. Think step
   "mcpServers": {
     "multi-model-advisor": {
       "command": "node",
-      "args": ["/absolute/path/to/multi-model-advisor/build/index.js"]
+      "args": ["/absolute/path/to/multi-ai-advisor-mcp/build/index.js"]
     }
   }
 }
